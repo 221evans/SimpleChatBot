@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Simple Chat Bot (Kotlin)/task/build/
+/Simple Chat Bot (Kotlin)/task/out/
+/Simple Chat Bot (Kotlin)/task/out/production/classes/
+/Topics/Declaring functions/Division/out/
+/Topics/Declaring functions/Division/out/production/classes/
+/Topics/Declaring functions/Get last digit/out/
+/Topics/Declaring functions/Get last digit/out/production/classes/
+/Topics/Declaring functions/Vowel or not/out/
+/Topics/Declaring functions/Vowel or not/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/

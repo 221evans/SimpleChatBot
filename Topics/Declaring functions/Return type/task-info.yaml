@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Null"
+  - text: Int
+  - text: Void
+  - text: Unit
+  - text: Nothing
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4585#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 27 Nov 2024 22:19:20 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false
